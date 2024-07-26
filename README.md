@@ -4,7 +4,7 @@ This project involves analyzing a dataset of laptops scraped from Flipkart to un
 # Data Analysis
 The following analyses were performed on the dataset:
 
-1. Top 10 Expensive Laptops of Each Brand
+1. Top 10 Expensive Laptops of Each Brand.
    Identifying the most expensive laptops for each brand.
    
 2. Top 10 Cheapest Laptops of Each Brand
