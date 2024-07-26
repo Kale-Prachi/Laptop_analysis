@@ -2,7 +2,7 @@
 I have data of laptops  and I need to analysis data that what factor affecting the pricing of laptop
 Data like laptop_brand, SSD, Ram, Windows_type, Graphic_card and whith this their prices
 
-Data I analysse:
+Data I analysed:
  1. Top 10 Expensive laptop of each brand
  2. TOP 10 chipest laptop of each brand
  3. Top 5 laptop with highest rating
